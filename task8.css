@@ -1,0 +1,46 @@
+.parent1{
+    height: 500px;
+    width: 800px;
+    background-color: blue;
+    
+
+}
+.ch1{
+    position: absolute;
+    top: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 400px;
+    width: 600px;
+    background-color: rgb(255, 5, 5);
+}
+.ch3{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 50px;
+    top: 10px;
+    height: 300px;
+    width: 400px;
+    background-color: rgb(0, 255, 17);
+}
+
+.ch4{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 50px;
+    top: 10px;
+    height: 200px;
+    width:300px;
+    background-color: rgb(255, 0, 221);
+}
+
+.ch5{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 50px;
+    top: 25px;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+}
+
